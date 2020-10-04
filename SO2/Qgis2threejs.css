@@ -80,6 +80,16 @@ body {
   border-top: 0px;
 }
 
+#create2{
+  position: absolute;
+  bottom:350px;
+  left:15px;
+  border-top: 0px;
+}
+
+
+
+
 #footer {
   position: absolute;
   left: 5px;
@@ -96,9 +106,16 @@ body {
   height: 180px;
 }
 
+
 #createn img {
   width: 150px;
   height: 90px;
+}
+
+
+#createn2 img {
+  width: 300px;
+  height: 200px;
 }
 
 
