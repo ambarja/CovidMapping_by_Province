@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 body {
   font-family: arial, sans-serif;
   margin: 0;
@@ -65,14 +66,25 @@ body {
 
 #header {
   position: absolute;
+  color: azure;
   left: 5px;
   top: 5px;
+  font-style: 480px;
+  opacity:0.6;
+}
+
+#create{
+
+  position: absolute;
+  right: 15px;
+  border-top: 0px;
 }
 
 #footer {
   position: absolute;
   left: 5px;
   bottom: 5px;
+  
 }
 
 #infobtn {
@@ -80,9 +92,15 @@ body {
 }
 
 #infobtn img {
-  width: 24px;
-  height: 24px;
+  width: 200px;
+  height: 170px;
 }
+
+#createn img {
+  width: 150px;
+  height: 90px;
+}
+
 
 /* popup */
 #popup {
