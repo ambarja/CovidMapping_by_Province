@@ -19,9 +19,8 @@
   </a>
 </p>
 
-This repository have how challenge mapping the cases of covid by province in all Peru with the finally of indetified  the relationship  of cases of covid and the emisions of NO2 and SO2.
-For identify if there are some patters of autocorrelation spatial in some regions it has used some techniques of spatial statistics and for explain the increse of cases of covid it has created a model geographycal that tryed explain this goblal problem only in Peru using different variables relatioshiped with cases of covid.
-
+This repository has as a challenge mapping the cases of COVID per province in all Peru with the purpose to identify the relationship between COVID’s cases and the emissions of NO2 and SO2. 
+For identify if there are some patterns of autocorrelation spatial in some regions. We have used some techniques of spatial statistics to explain the increase of cases of COVID and we have created a geographical model that tries to explain this global problem.
 
 # covidmapping
 * https://barja8.github.io/CovidMapping_by_Province/SO2/
