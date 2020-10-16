@@ -22,8 +22,19 @@
 This repository has as a challenge mapping the cases of COVID per province in all Peru with the purpose to identify the relationship between COVID’s cases and the emissions of NO2 and SO2. 
 For identify if there are some patterns of autocorrelation spatial in some regions. We have used some techniques of spatial statistics to explain the increase of cases of COVID and we have created a geographical model that tries to explain this global problem.
 
-# covidmapping
-* https://barja8.github.io/CovidMapping_by_Province/SO2/
-* https://barja8.github.io/CovidMapping_by_Province/NO2/
 
-![](https://user-images.githubusercontent.com/23284899/96214093-3c5d4080-0f40-11eb-9a68-1c11c7bc9875.png)
+# Analysis Exploratory of Data 
+
+
+# Final Map
+
+
+# Sources : 
+
+ * National Platform Free Data <https://www.datosabiertos.gob.pe/group/datos-abiertos-de-covid-19>
+  
+ * GEE, 2020. Sentinel-5P NRTI SO2: Near Real-Time Nitrogen Dioxide. Earth Engine Data Catalog. https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2 
+
+ * GEE, 2020. Sentinel-5P NRTI NO2: Near Real-Time Nitrogen Dioxide. Earth Engine Data Catalog. https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O2 
+
+* C Aybar, Q Wu, L Bautista, R Yali and A Barja (2020) rgee: An R package for interacting with Google Earth Engine Journal of Open Source Software URL https://github.com/r-spatial/rgee/.
