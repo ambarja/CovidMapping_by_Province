@@ -1,7 +1,7 @@
 
 # Mapping cases of COVID vs NO2 and SO2 
 <p>
- <a href="https://github.com/qgispe">
+ <a href="https://www.linkedin.com/in/antonybarja/">
   <img src="https://img.shields.io/badge/Autor-Antony%20Barja-lightgrey?style=for-the-badge" height="23">
   </a>
 <a href="https://www.linkedin.com/in/mariocaceres25/">
