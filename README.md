@@ -29,7 +29,7 @@ For identify if there are some patterns of autocorrelation spatial in some regio
 # Final Map
 <p align="center">
  <a> 
- <img src='Imgs/so2.gif' width=400>
+ <img src='Imgs/so2.gif' width=400> 
  </a>
  <a> 
  <img src='Imgs/no2.gif' width=400>
