@@ -27,7 +27,12 @@ For identify if there are some patterns of autocorrelation spatial in some regio
 
 
 # Final Map
-![](Imgs/so2.gif)
+<p align="center">
+ <a> 
+ <img src='Imgs/so2.gif'>
+ </a>
+</p>
+
 
 # Sources : 
 
