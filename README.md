@@ -23,9 +23,6 @@ This repository has as a challenge mapping the cases of COVID per province in al
 For identify if there are some patterns of autocorrelation spatial in some regions. We have used some techniques of spatial statistics to explain the increase of cases of COVID and we have created a geographical model that tries to explain this global problem.
 
 
-# Analysis Exploratory of Data 
-
-
 # Final Map
 <p align="center">
  <a> 
